@@ -1,0 +1,9 @@
+﻿  타임머신.cpp
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(24,22): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(25,19): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(25,45): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(25,66): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(30,21): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(30,53): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\타임머신\타임머신.cpp(30,75): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  타임머신.vcxproj -> C:\Users\USER\Desktop\competion practice\-\타임머신\Debug\타임머신.exe
