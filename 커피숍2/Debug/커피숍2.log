@@ -1,0 +1,6 @@
+﻿  커피숍2.cpp
+C:\Users\USER\Desktop\competion practice\-\커피숍2\커피숍2.cpp(29,27): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\커피숍2\커피숍2.cpp(29,24): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\커피숍2\커피숍2.cpp(31,12): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\커피숍2\커피숍2.cpp(32,20): warning C4244: '인수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  커피숍2.vcxproj -> C:\Users\USER\Desktop\competion practice\-\커피숍2\Debug\커피숍2.exe
