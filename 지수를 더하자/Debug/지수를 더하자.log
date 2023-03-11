@@ -1,0 +1,27 @@
+﻿  지수를 더하자.cpp
+C:\Users\USER\Desktop\competion practice\-\지수를 더하자\지수를 더하자.cpp(20,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\USER\Desktop\competion practice\-\지수를 더하자\지수를 더하자.cpp(37,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\utility(193,16): warning C4244: '초기화 중': '_Ty'에서 '_Ty1'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=__int64
+          ]
+          and
+          [
+              _Ty1=const int
+          ]
+C:\Users\USER\Desktop\competion practice\-\지수를 더하자\지수를 더하자.cpp(42): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<const int,bool>::pair<_Ty&,bool,0>(_Other1,_Other2 &&) noexcept'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=__int64,
+              _Other1=__int64 &,
+              _Other2=bool
+          ]
+C:\Users\USER\Desktop\competion practice\-\지수를 더하자\지수를 더하자.cpp(42): message : 컴파일되는 함수 템플릿 인스턴스화 'std::pair<const int,bool>::pair<_Ty&,bool,0>(_Other1,_Other2 &&) noexcept'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=__int64,
+              _Other1=__int64 &,
+              _Other2=bool
+          ]
+  지수를 더하자.vcxproj -> C:\Users\USER\Desktop\competion practice\-\지수를 더하자\Debug\지수를 더하자.exe
