@@ -1,0 +1,4 @@
+﻿  수 이어 쓰기 2.cpp
+C:\Users\USER\Desktop\competion practice\-\수 이어 쓰기 2\수 이어 쓰기 2.cpp(12,40): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\Desktop\competion practice\-\수 이어 쓰기 2\수 이어 쓰기 2.cpp(13,38): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  수 이어 쓰기 2.vcxproj -> C:\Users\USER\Desktop\competion practice\-\수 이어 쓰기 2\Debug\수 이어 쓰기 2.exe

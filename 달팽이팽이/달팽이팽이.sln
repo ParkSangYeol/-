@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "달팽이팽이", "달팽이팽이.vcxproj", "{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Debug|x64.ActiveCfg = Debug|x64
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Debug|x64.Build.0 = Debug|x64
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Debug|x86.ActiveCfg = Debug|Win32
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Debug|x86.Build.0 = Debug|Win32
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Release|x64.ActiveCfg = Release|x64
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Release|x64.Build.0 = Release|x64
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Release|x86.ActiveCfg = Release|Win32
+		{29177935-9531-44CF-A6F0-AFE9AB8C8ACB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C4E38A-3374-4439-99ED-7A71DFEA78BF}
+	EndGlobalSection
+EndGlobal
